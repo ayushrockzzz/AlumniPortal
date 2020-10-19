@@ -280,11 +280,9 @@
  
                 <label for="Course">Course</label>
                 <select name="al_course_s" class="form-control" required>
-                    <option value="Computer Engineering">Computer Engineering</option>
-                    <option value="Electrical Engineering">Electrical Engineering</option>
-                    <option value="Civil Engineering">Civil Engineering</option>
-                    <option value="Electronics & Telecommunications Engineering">Electronics & Telecommunications Engineering</option>
-                    <option value="Mechanical Engineering">Mechanical Engineering</option>
+                    <option value="BCA">BCA</option>
+                    <option value="BJMC">BJMC</option>
+                    <option value="BBA">BBA</option>
                 </select>
                 <label for="End Year">End Year</label>
                 <select name="al_last_year_s" class="form-control" required>
@@ -305,6 +303,8 @@
                     <option value="2017">2017</option>
                     <option value="2018">2018</option>
                     <option value="2019">2019</option>
+                    <option value="2019">2020</option>
+
                 </select>
                 <label for="">Certificate Code</label>
                 <input type="text" class="form-control" name="cert_code" required>
@@ -499,14 +499,12 @@
                 <!--City-->
                 <label for="Course">Course</label>
                 <select name="course" class="form-control">
-                    <option value="Computer Engineering">Computer Engineering</option>
-                    <option value="Electrical Engineering">Electrical Engineering</option>
-                    <option value="Civil Engineering">Civil Engineering</option>
-                    <option value="Electronics & Telecommunications Engineering">Electronics & Telecommunications Engineering</option>
-                    <option value="Mechanical Engineering">Mechanical Engineering</option>
+                    <option value="BCA">BCA</option>
+                    <option value="BJMC">BJMC</option>
+                    <option value="BBA">BBA</option>
                 </select>
                 <label for="Enroll">Enrollment No</label>
-                <input type="text" name="enroll" maxlength="10" class="form-control" required>
+                <input type="text" name="enroll" maxlength="11" class="form-control" required>
                 <br>
                 <center><input type="submit" name="signup" class="btn btn-primary" value="Create Account"><center>
                 <center><a href="" data-toggle="modal" data-dismiss="modal" data-target="#LoginModal">Already a Member?</a></center>

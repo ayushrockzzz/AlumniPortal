@@ -11,7 +11,7 @@
 						<div class="container-fluid">
     <div class="row footer padding-xs">
         <div class="col-sm-12">
-            <p class="text-center"> All rights reserved by AAWEZ KHAN, 2019 | Developed by AK</a></span></p>
+            <p class="text-center"> All rights reserved by Ayush Satyam, 2020 | Developed by @ayushrockzzz</a></span></p>
         </div>
     </div>
 </div>

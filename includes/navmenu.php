@@ -19,7 +19,7 @@
 									<span class="icon-bar"></span>
 								</button>
 								
-								<a href="index.php" class="navbar-inverse"><img src="Kalsekar img/ARKP logo1.png" alt="Logo" height="50" width="200" /></a>
+								<a href="index.php" class="navbar-inverse"><img src="img/logo1.png" alt="Logo" height="50" width="80" /></a>
 							</div>
 							
 							<div class="navbar-collapse collapse">
@@ -28,7 +28,6 @@
 									<li><a href=about.php>About</a></li>
 									<li><a data-toggle="dropdown" href="#">Alumni Contribution<span class="caret"></span></a>
                                                 <ul class="dropdown-menu">
-                                                	 <li><a href="fund.php" >Fund</a></li>
                                                   <li><a href="expert_talk.php">Expert Talk</a></li>
                                                   <li><a href="workshop.php">Workshop</a></li>
                                                   <li><a href="i_v.php">I.V.(Industrial Visit)</a></li>

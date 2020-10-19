@@ -142,11 +142,3 @@ if($_FILES["pic_job"]["name"] != '')
 
 
 ?>
-
-
-<!--
-INSERT INTO alumnis (alumni_id, alumni_name, email, alumni_ph_no, password, alumni_gender, country, alumni_course, alumni_last_year, certificate_code, course_phs, institute_phs, company, organisation, designation, no_of_employees, turnover, other, Status) VALUES (NULL, 'bcdshj', 'cfbsdkh@vdfbvh.cndfhjvk', '31232312', 'nckdcsdhchsb', 'Male', 'vfdbvjsb', 'ME', '1234', '1234', 'CE', 'fsdnfkj', '', '', '', '', '', '', 'PHS')
-
-
-[al_name_s] => Aawez Khan [al_email_s] => aawezk456@gmail.com [al_password_s] => gbfbgggb [al_ph_no_s] => 8108481831 [al_gender_s] => Male [country] => India [al_course_s] => CO [al_last_year_s] => 2003 [cert_code] => 400612 [Status] => Higher_studies_radio [course_status] => CE [institute_status] => vfdvfvd [name_com] => [designation] => [name_org] => [no_emp] => [turnover] => [discription] => [signup_alumni] => Create Account
--->
